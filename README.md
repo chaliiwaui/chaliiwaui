@@ -119,7 +119,7 @@ interest: Traveling
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| [**chalii-jackson**](https://github.com/chaliidesigns/chalii-jackson) | My portfolio — [makindajackson.com](https://makindajackson.com) | Next.js · React · Tailwind v4 · TypeScript |
+| [**chalii-designs**](https://github.com/chaliidesigns/chalii-designs) | My portfolio — [makindajackson.com](https://makindajackson.com) | Next.js · React · Tailwind v4 · TypeScript |
 | [**Vanly**](https://github.com/chaliiwaui/Vanly) | Mobile platform connecting van lifers for dating, friendship and expert van builders | Expo · React Native · TypeScript |
 | [**Wakapay-app**](https://github.com/chaliiwaui/Wakapay-app) | Cross-border mobile money app for everyday Africa — send, pay, top up, withdraw | Expo · React Native · TypeScript |
 | [**json-figma**](https://github.com/chaliiwaui/json-figma) | Figma plugin to import/export JSON for variables and styles | Figma Plugin API · React · Vite |
