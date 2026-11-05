@@ -5,7 +5,7 @@
 ### 🎨 UX/UI Designer • 💻 Vibe Coder • 🎵 Hip-Hop Enthusiast
 
 <p align="center">
-  <em>Chalii wa UX/UI — designing and shipping products from Dar es Salaam, Tanzania 🇹🇿</em>
+  <em>Chalii wa UX/UI - designing and shipping products from Dar es Salaam, Tanzania 🇹🇿</em>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ pronouns: He/Him
 interest: Traveling
 ```
 
-- 🎨 I design interfaces first, then build them — Figma to production
+- 🎨 I design interfaces first, then build them - Figma to production
 - 🧩 I build **Figma plugins** to speed up my own design workflow
 - 📱 I ship **mobile apps** (Expo / React Native, Flutter) and **web apps** (Next.js, Laravel)
 - 🎧 Best work happens with a hip-hop playlist on repeat
@@ -119,14 +119,14 @@ interest: Traveling
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| [**chalii-designs**](https://github.com/chaliidesigns/chalii-designs) | My portfolio — [makindajackson.com](https://makindajackson.com) | Next.js · React · Tailwind v4 · TypeScript |
+| [**chalii-designs**](https://github.com/chaliidesigns/chalii-designs) | My portfolio - [makindajackson.com](https://makindajackson.com) | Next.js · React · Tailwind v4 · TypeScript |
 | [**Vanly**](https://github.com/chaliiwaui/Vanly) | Mobile platform connecting van lifers for dating, friendship and expert van builders | Expo · React Native · TypeScript |
-| [**Wakapay-app**](https://github.com/chaliiwaui/Wakapay-app) | Cross-border mobile money app for everyday Africa — send, pay, top up, withdraw | Expo · React Native · TypeScript |
+| [**Wakapay-app**](https://github.com/chaliiwaui/Wakapay-app) | Cross-border mobile money app for everyday Africa - send, pay, top up, withdraw | Expo · React Native · TypeScript |
 | [**json-figma**](https://github.com/chaliiwaui/json-figma) | Figma plugin to import/export JSON for variables and styles | Figma Plugin API · React · Vite |
 | [**palette-figma**](https://github.com/chaliiwaui/palette-figma) | Figma plugin for colour palette management | Figma Plugin API · React · Vite |
 | [**typeface-figma**](https://github.com/chaliiwaui/typeface-figma) | Figma plugin generating typography & sizing tokens as variables and text styles | Figma Plugin API · React · Vite |
 | [**ORBIT**](https://github.com/chaliiwaui/ORBIT) | Interactive educational visualisation of Earth's orbital environment (NASA Space Apps) | React · Vite · Tailwind · TypeScript |
-| [**Release-Manager**](https://github.com/chaliiwaui/Release-Manager) | Release management portal — releases, testers, feedback and analytics | React · Vite · TypeScript |
+| [**Release-Manager**](https://github.com/chaliiwaui/Release-Manager) | Release management portal - releases, testers, feedback and analytics | React · Vite · TypeScript |
 | [**kividea**](https://github.com/chaliiwaui/kividea) | Public website + secure admin portal with Supabase auth | Next.js · React · Tailwind · TypeScript |
 | [**dalali-app**](https://github.com/chaliiwaui/dalali-app) | Property app connecting tenants/buyers with owners, brokers and agents | Flutter · Dart |
 
