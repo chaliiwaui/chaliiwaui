@@ -6,13 +6,6 @@
   Product and Visual Designer at <a href="https://github.com/chaliidesigns">Chalii Designs</a>.
 </p>
 
-<p align="center">
-  <a href="https://chaliidesigns.com"><img src="https://img.shields.io/badge/Website-chaliidesigns.com-ff711a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website chaliidesigns.com"></a>
-  <a href="https://x.com/chaliidesigns"><img src="https://img.shields.io/badge/X-%40chaliidesigns-0e0e0f?style=flat-square&logo=x&logoColor=white" alt="X @chaliidesigns"></a>
-  <a href="https://instagram.com/chaliidesigns"><img src="https://img.shields.io/badge/Instagram-%40chaliidesigns-0e0e0f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @chaliidesigns"></a>
-  <a href="https://linkedin.com/in/chaliidesigns"><img src="https://img.shields.io/badge/LinkedIn-Chalii%20Designs-0e0e0f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Chalii Designs"></a>
-</p>
-
 ---
 
 ## About
