@@ -2,10 +2,6 @@
   <img src="banner.webp" alt="A wooden pixel-style letter C on a hill of wildflowers under a bright sky" width="100%">
 </p>
 
-<p align="center">
-  Product and Visual Designer at <a href="https://github.com/chaliidesigns">Chalii Designs</a>.
-</p>
-
 ---
 
 ## About me
