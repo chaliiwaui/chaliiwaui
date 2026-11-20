@@ -8,8 +8,8 @@
 
 ---
 
-## About
+## About me
 
-I design digital products, from UX research to pixel-perfect UI, and I build the small tools that make my own design work faster. I work from Tanzania, and I started Chalii Designs in Arusha.
+I design digital products, from UX research to pixel-perfect UI, and I build the small tools that make my own design work faster. I work from Tanzania.
 
-For client work, the studio is [Chalii Designs](https://chaliidesigns.com). This profile is for my own projects.
+For client work, our agency is [Chalii Designs](https://chaliidesigns.com).
