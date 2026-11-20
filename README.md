@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Chalii wa UI. UI and UX designer, and the person behind <a href="https://github.com/chaliidesigns">Chalii Designs</a>.
+  Product and Visual Designer at <a href="https://github.com/chaliidesigns">Chalii Designs</a>.
 </p>
 
 <p align="center">
