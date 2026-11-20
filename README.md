@@ -2,17 +2,15 @@
   <img src="banner.webp" alt="A wooden pixel-style letter C on a hill of wildflowers under a bright sky" width="100%">
 </p>
 
-<h1 align="center">Jackson Makinda</h1>
-
 <p align="center">
   Chalii wa UI. UI and UX designer, and the person behind <a href="https://github.com/chaliidesigns">Chalii Designs</a>.
 </p>
 
 <p align="center">
-  <a href="https://chaliidesigns.com">Chalii Designs</a> ·
-  <a href="#figma-plugins">Figma plugins</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#get-in-touch">Get in touch</a>
+  <a href="https://chaliidesigns.com"><img src="https://img.shields.io/badge/Website-chaliidesigns.com-ff711a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website chaliidesigns.com"></a>
+  <a href="https://x.com/chaliidesigns"><img src="https://img.shields.io/badge/X-%40chaliidesigns-0e0e0f?style=flat-square&logo=x&logoColor=white" alt="X @chaliidesigns"></a>
+  <a href="https://instagram.com/chaliidesigns"><img src="https://img.shields.io/badge/Instagram-%40chaliidesigns-0e0e0f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @chaliidesigns"></a>
+  <a href="https://linkedin.com/in/chaliidesigns"><img src="https://img.shields.io/badge/LinkedIn-Chalii%20Designs-0e0e0f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Chalii Designs"></a>
 </p>
 
 ---
@@ -40,7 +38,7 @@ For client work, the studio is [Chalii Designs](https://chaliidesigns.com). This
 
 <table width="100%">
   <thead>
-    <tr><th align="left" width="22%">Project</th><th align="left" width="53%">What it is</th><th align="left" width="25%">Built with</th></tr>
+    <tr><th align="left" width="26%">Project</th><th align="left" width="44%">What it is</th><th align="left" width="30%">Built with</th></tr>
   </thead>
   <tbody>
     <tr><td><a href="https://github.com/chaliiwaui/Vanly">Vanly</a></td><td>A mobile platform connecting van lifers for dating, friendship and expert van builders</td><td>Expo, React Native, TypeScript</td></tr>
@@ -55,9 +53,3 @@ For client work, the studio is [Chalii Designs](https://chaliidesigns.com). This
 These are personal projects by Jackson, not Chalii Designs client work. The themes and icons we share as an agency are at [github.com/chaliidesigns](https://github.com/chaliidesigns).
 
 [All repositories](https://github.com/chaliiwaui?tab=repositories)
-
-## Get in touch
-
-- Projects for your team: [chaliidesigns.com/contact](https://chaliidesigns.com/contact)
-- Email: [me@chaliidesigns.com](mailto:me@chaliidesigns.com)
-- X and Instagram: [@chaliidesigns](https://x.com/chaliidesigns)
